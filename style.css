@@ -1,0 +1,62 @@
+.logo1{
+display:block;
+border:3px red;
+height:250px;
+width:250px;
+margin-left:auto;
+margin-right:auto;
+padding:15px;
+}
+
+#Img1{
+border:3px solid gray;
+height:400px;
+width:400px;
+}
+
+.h1style{
+color:#1e3a8a;
+font-size:55px;
+font-family:"Times New Roman", Times, serif;
+margin-bottom:0;
+text-align:center;
+}
+
+.h2style{color:#1e3a8a;}
+
+.h4style{
+color:#708090;
+font-size:35px;
+font-family:Stencil Std;
+margin-top:0;
+margin-bottom:0;
+text-align:center;}
+
+.para{
+color:#1e3a8a;;
+font-size:25px;
+text-align:justify;
+%background-color:Gainsboro;
+}
+
+.para1{
+color:#134e5e;
+font-size:45px;
+text-align:left;
+}
+
+.button{
+border:white;
+color:Gainsboro;
+padding:15px 30px;
+text-align:center;
+font-size:16px;
+margin:4px 2px;
+cursor:pointer;
+background-color:#1e3a8a;}
+
+.button1:hover {
+background-color: #9B9FB6;
+color: #1e3a8a;
+box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
