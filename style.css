@@ -25,12 +25,20 @@ text-align:center;
 .h2style{color:#1e3a8a;}
 
 .h4style{
-color:#1e3a8a ;
+color:#1e3a8a;
 font-size:35px;
 font-family:Stencil Std;
 margin-top:0;
 margin-bottom:0;
 text-align:center;}
+
+#subheading{
+  color:#1e3a8a;
+  font-size:35px;
+  font-family:Stencil Std;
+  margin-top:0;
+  margin-bottom:0;
+  text-align:center;}
 
 .para{
 color:#1e3a8a;;
