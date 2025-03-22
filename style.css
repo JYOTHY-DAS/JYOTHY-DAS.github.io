@@ -41,7 +41,7 @@ text-align:center;}
   text-align:center;}
 
 .para{
-color:#1e3a8a;;
+color:#1e3a8a;
 font-size:25px;
 text-align:justify;
 }
@@ -54,13 +54,13 @@ text-align:left;
 
 .button{
 border:white;
-color:rgb(18, 61, 141);
+color:rgb(255, 255, 255);
 padding:15px 30px;
 text-align:center;
 font-size:16px;
 margin:4px 2px;
 cursor:pointer;
-background-color:#ffffff;}
+background-color:#1e3a8a;}
 
 .button1:hover {
 background-color: #9B9FB6;
