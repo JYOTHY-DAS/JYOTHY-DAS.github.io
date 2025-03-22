@@ -60,12 +60,12 @@ text-align:center;
 font-size:16px;
 margin:4px 2px;
 cursor:pointer;
-background-color:#1e3a8a;
+background-color:#120A8F;
 text-decoration: solid;}
 
 .button1:hover {
 background-color: #9B9FB6;
-color: #0e1cda;
+color: #120A8F;
 box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
