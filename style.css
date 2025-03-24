@@ -126,8 +126,12 @@ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
     height: 400px; /* Set a consistent height */
 }
 
+#card_heading{
+  color: #0c6268;
+}
+
 #contact{
-  background-color:#1f3264;
+  background-color:#120A8F;
   text-align:left;
 }
 /*background-color: #f1f1f1;*/
