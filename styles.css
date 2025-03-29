@@ -135,3 +135,26 @@ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
   text-align:left;
 }
 /*background-color: #f1f1f1;*/
+
+/* Style of Tricky Brain Teasers Page*/
+.question-container {
+  display: none;
+}
+.active {
+  display: block;
+}
+.pagination {
+  margin-top: 20px;
+}
+.pagination a {
+  padding: 8px 12px;
+  margin: 5px;
+  text-decoration: none;
+  border: 1px solid #333;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #f4f4f4;
+}
+.pagination a:hover {
+  background-color: #ddd;
+}

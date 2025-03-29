@@ -1,31 +1,24 @@
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title>Brain Teasers</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tricky Brain Teasers</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
-
 <body>
-<h1>Brain Teasers</h1>
 
-<div>
-<table width="100%" bgcolor="#BDB0D4">
-<tr>
-<td width="30%">
-<h2 style="color:#800000;">Tricky Brain-Teasers</h2>
-<ol>
-<li style="color:#800062;font-size:30px;">I am not alive, but I grow. I don’t have lungs, but I need air. What am I?</li> 
-<p style="color:#800000;font-size:30px;">Ans: Fire</p>
-<li style="color:#800062;font-size:30px;">The more you take, the more you leave behind. What are they?</li> 
-<p style="color:#800000;font-size:30px;">Ans: Footprints</p>
-<li style="color:#800062;font-size:30px;">What comes once in a minute, twice in a moment, but never in a thousand years?</li> 
-<p style="color:#800000;font-size:30px;">Ans: The letter 'M'.</p>
+    <h1>Tricky Brain Teasers</h1>
 
-</ol>
-</td>
-</tr>
-</table>
-</div>
-&nbsp
+    <div id="questions"></div>
 
+    <!-- Pagination -->
+    <div class="pagination">
+        <a href="#" class="arrow" onclick="prevPage()">&#9665;</a>
+        <span id="page-numbers"></span>
+        <a href="#" class="arrow" onclick="nextPage()">&#9655;</a>
+    </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
