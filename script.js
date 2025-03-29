@@ -21,12 +21,12 @@ const questions = [
     {q: "What goes up but never comes down?", a: "Your age"},
     {q: "What begins and has no end, but ends all things that begin?", a: "Time"},
     {q: "What has hands but can’t clap?", a: "A clock" },
-    {q:"What has an eye but cannot see?", a:"A needle"},
-    {q:"How can a man go eight days without sleep?",a:"He sleeps at night."},
-    {q:"If you have me, you want to share me. If you share me, you don’t have me. What am I?", a:"A secret"},
-    {q:"What can travel around the world while staying in the same corner?", a:"A stamp. A postage stamp is usually affixed to the corner of an envelope. When the envelope is mailed, it can literally travel around the world to reach its destination. Despite this journey, the stamp itself stays in the same 'corner' of the envelope the entire time. "},
-    {q:"What has a head, a tail, but no body?", a:"A coin"},
-    {q:"What gets wetter as it dries?", a:"A towel"}
+    {q: "What has an eye but cannot see?", a: "A needle"},
+    {q: "How can a man go eight days without sleep?",a: "He sleeps at night."},
+    {q: "If you have me, you want to share me. If you share me, you don’t have me. What am I?", a: "A secret"},
+    {q: "What can travel around the world while staying in the same corner?", a: "A stamp. A postage stamp is usually affixed to the corner of an envelope. When the envelope is mailed, it can literally travel around the world to reach its destination. Despite this journey, the stamp itself stays in the same 'corner' of the envelope the entire time. "},
+    {q: "What has a head, a tail, but no body?", a: "A coin"},
+    {q: "What gets wetter as it dries?", a: "A towel"}
 ];
 
 // Duplicate the questions to make 100
