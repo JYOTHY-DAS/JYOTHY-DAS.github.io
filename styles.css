@@ -151,14 +151,14 @@ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
   text-align: left;
   font-size: 20px; /* Adjust question font size */
   font-weight: bold; /* Make it bold */
-  color: #800062; /* Adjust letter color */
+  color: #800000; /* Adjust letter color */
 }
 
 .answer {
   display: block; /* Ensures it appears on a new line */
   margin-top: 10px;
   font-size: 20px; /* Adjust answer font size */
-  color: #800000; /* Adjust letter color */
+  color: #800062; /* Adjust letter color */
   font-style: italic; /* Italic styling */
 }
 
