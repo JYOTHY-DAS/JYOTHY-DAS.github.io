@@ -129,7 +129,15 @@ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 #card_heading{
   color: #65000b;
 }
-
+.card1{box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  text-align: left;
+  background-color: #37bfc8;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1; /* Makes all cards expand to the same height */
+  height: 200px; /* Set a consistent height */}
 #contact{
   background-color:#120A8F;
   text-align:left;
