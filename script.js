@@ -37,7 +37,7 @@ const questions = [
     {q:"What kind of cheese is made backwards?", a:"Edam cheese"},
     {q:"What has four legs but only one foot?", a:"A bed"},
     {q:"A boy and a girl are sitting on a bench. 'I’m a girl,' says the child with brown hair. 'I’m a boy,' says the child with blond hair. If at least one of them is lying, which one is lying?", a:"Both are lying. If either of them told the truth, they would say the same thing."},
-    {q:"An explorer discovered a silver coin marked '7 BC.' He was told it was a forgery. Why?", a:"Because coins weren’t marked with 'BC' during that time — the term 'BC' (Before Christ) was created centuries later, long after the birth of Christ.Because coins weren’t marked with 'BC' during that time — the term 'BC' (Before Christ) was created centuries later, long after the birth of Christ."},
+    {q:"An explorer discovered a silver coin marked '7 BC.' He was told it was a forgery. Why?", a:"Because coins weren’t marked with 'BC' during that time — the term 'BC' (Before Christ) was created centuries later, long after the birth of Christ.The dating system using BC (Before Christ) and AD (Anno Domini) was invented by a monk named Dionysius Exiguus in the 6th century AD."},
     {q:"A red house is made from red bricks. A blue house is made from blue bricks. A yellow house is made from yellow bricks. What is a greenhouse made from?", a:"Glass"}
 ];
 
