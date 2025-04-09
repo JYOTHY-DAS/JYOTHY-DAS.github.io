@@ -26,7 +26,19 @@ const questions = [
     {q: "If you have me, you want to share me. If you share me, you don’t have me. What am I?", a: "A secret"},
     {q: "What can travel around the world while staying in the same corner?", a: "A stamp. A postage stamp is usually affixed to the corner of an envelope. When the envelope is mailed, it can literally travel around the world to reach its destination. Despite this journey, the stamp itself stays in the same 'corner' of the envelope the entire time. "},
     {q: "What has a head, a tail, but no body?", a: "A coin"},
-    {q: "What gets wetter as it dries?", a: "A towel"}
+    {q: "What gets wetter as it dries?", a: "A towel"},
+    {q:"There is a word in the English language in which the first two letters signify a male, the first three letters signify a female, the first four signify a great man, and the whole word, a great woman. What is the word?", a:"Heroine"},
+    {q:"What has cities, but no houses; forests, but no trees; and water, but no fish?", a:"A map"},
+    {q:"What is harder to catch the faster you run?", a:"Your breath"},
+    {q:"What two words, when combined, hold the most letters?", a:"Post box"},
+    {q:"How many two-cent stamps are there in a dozen?", a:"12 stamps (Don't multiplty two with 12)."},
+    {q:"Two U.S. coins add up to 30 cents. If one of them is not a nickel, what are the two coins?", a:"A nickel (5 cents), and a quarter (25 cents). This question tricks you into thinking neither coin is a nickel."},
+    {q:"Make one word from all the following jumbled letters: R E O D N O W", a:"ONE WORD"},
+    {q:"What kind of cheese is made backwards?", a:"Edam cheese"},
+    {q:"What has four legs but only one foot?", a:"A bed"},
+    {q:"A boy and a girl are sitting on a bench. 'I’m a girl,' says the child with brown hair. 'I’m a boy,' says the child with blond hair. If at least one of them is lying, which one is lying?", a:"Both are lying. If either of them told the truth, they would say the same thing."},
+    {q:"An explorer discovered a silver coin marked '7 BC.' He was told it was a forgery. Why?", a:"Because coins weren’t marked with 'BC' during that time — the term 'BC' (Before Christ) was created centuries later, long after the birth of Christ.Because coins weren’t marked with 'BC' during that time — the term 'BC' (Before Christ) was created centuries later, long after the birth of Christ."},
+    {q:"A red house is made from red bricks. A blue house is made from blue bricks. A yellow house is made from yellow bricks. What is a greenhouse made from?", a:"Glass"}
 ];
 
 // Duplicate the questions to make 100
